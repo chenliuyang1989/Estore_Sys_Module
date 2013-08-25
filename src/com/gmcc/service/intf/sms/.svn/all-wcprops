@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/estore-common/!svn/ver/1197/trunk/Estore_Sys_Module/src/com/gmcc/service/intf/sms
+END
+SmsServiceMockImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/estore-common/!svn/ver/15/trunk/Estore_Sys_Module/src/com/gmcc/service/intf/sms/SmsServiceMockImpl.java
+END
+SmsSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/estore-common/!svn/ver/15/trunk/Estore_Sys_Module/src/com/gmcc/service/intf/sms/SmsSender.java
+END
+SmsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/estore-common/!svn/ver/15/trunk/Estore_Sys_Module/src/com/gmcc/service/intf/sms/SmsService.java
+END
+smsConfig.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/estore-common/!svn/ver/830/trunk/Estore_Sys_Module/src/com/gmcc/service/intf/sms/smsConfig.cfg
+END
+SConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/estore-common/!svn/ver/855/trunk/Estore_Sys_Module/src/com/gmcc/service/intf/sms/SConfig.java
+END
+SmsConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/estore-common/!svn/ver/843/trunk/Estore_Sys_Module/src/com/gmcc/service/intf/sms/SmsConfig.java
+END
+SmsServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/estore-common/!svn/ver/15/trunk/Estore_Sys_Module/src/com/gmcc/service/intf/sms/SmsServiceFactory.java
+END
+SvcNum.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/estore-common/!svn/ver/15/trunk/Estore_Sys_Module/src/com/gmcc/service/intf/sms/SvcNum.java
+END
+SmSendQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/estore-common/!svn/ver/1197/trunk/Estore_Sys_Module/src/com/gmcc/service/intf/sms/SmSendQueue.java
+END

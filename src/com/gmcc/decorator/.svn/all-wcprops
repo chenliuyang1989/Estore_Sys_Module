@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/estore-common/!svn/ver/2483/trunk/Estore_Sys_Module/src/com/gmcc/decorator
+END
+JobStatusWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/estore-common/!svn/ver/527/trunk/Estore_Sys_Module/src/com/gmcc/decorator/JobStatusWrapper.java
+END
+LongTimeWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/estore-common/!svn/ver/255/trunk/Estore_Sys_Module/src/com/gmcc/decorator/LongTimeWrapper.java
+END
+SystemInvoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/estore-common/!svn/ver/2483/trunk/Estore_Sys_Module/src/com/gmcc/decorator/SystemInvoice.java
+END
+IsNeedInvoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/estore-common/!svn/ver/987/trunk/Estore_Sys_Module/src/com/gmcc/decorator/IsNeedInvoice.java
+END
+OrgPropertiesWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/estore-common/!svn/ver/161/trunk/Estore_Sys_Module/src/com/gmcc/decorator/OrgPropertiesWrapper.java
+END
+OrgCategoryWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/estore-common/!svn/ver/667/trunk/Estore_Sys_Module/src/com/gmcc/decorator/OrgCategoryWrapper.java
+END
+BillStatusWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/estore-common/!svn/ver/48/trunk/Estore_Sys_Module/src/com/gmcc/decorator/BillStatusWrapper.java
+END
+LogOperatorKeyWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/estore-common/!svn/ver/2209/trunk/Estore_Sys_Module/src/com/gmcc/decorator/LogOperatorKeyWrapper.java
+END
+ChannelWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/estore-common/!svn/ver/1548/trunk/Estore_Sys_Module/src/com/gmcc/decorator/ChannelWrapper.java
+END
+CityWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/estore-common/!svn/ver/368/trunk/Estore_Sys_Module/src/com/gmcc/decorator/CityWrapper.java
+END
+LongValueWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/estore-common/!svn/ver/667/trunk/Estore_Sys_Module/src/com/gmcc/decorator/LongValueWrapper.java
+END
+ShortDateWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/estore-common/!svn/ver/26/trunk/Estore_Sys_Module/src/com/gmcc/decorator/ShortDateWrapper.java
+END

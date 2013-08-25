@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/estore-common/!svn/ver/2192/trunk/Estore_Sys_Module/src/com/gmcc/service
+END
+UserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/estore-common/!svn/ver/1602/trunk/Estore_Sys_Module/src/com/gmcc/service/UserService.java
+END
+LogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/estore-common/!svn/ver/767/trunk/Estore_Sys_Module/src/com/gmcc/service/LogService.java
+END
+RoleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/estore-common/!svn/ver/1842/trunk/Estore_Sys_Module/src/com/gmcc/service/RoleService.java
+END
+UserSecurityAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/estore-common/!svn/ver/9/trunk/Estore_Sys_Module/src/com/gmcc/service/UserSecurityAdvice.java
+END
+AuthorityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/estore-common/!svn/ver/1741/trunk/Estore_Sys_Module/src/com/gmcc/service/AuthorityManager.java
+END
+ElementManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/estore-common/!svn/ver/552/trunk/Estore_Sys_Module/src/com/gmcc/service/ElementManager.java
+END
+VersionnoticeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/estore-common/!svn/ver/892/trunk/Estore_Sys_Module/src/com/gmcc/service/VersionnoticeService.java
+END
+AppLockService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/estore-common/!svn/ver/1061/trunk/Estore_Sys_Module/src/com/gmcc/service/AppLockService.java
+END
+BillSnManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/estore-common/!svn/ver/824/trunk/Estore_Sys_Module/src/com/gmcc/service/BillSnManager.java
+END
+ParamsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/estore-common/!svn/ver/379/trunk/Estore_Sys_Module/src/com/gmcc/service/ParamsManager.java
+END

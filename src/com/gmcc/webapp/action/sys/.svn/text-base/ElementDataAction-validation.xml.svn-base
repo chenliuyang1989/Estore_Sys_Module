@@ -1,0 +1,23 @@
+<!DOCTYPE validators PUBLIC "-//OpenSymphony Group//XWork Validator 1.0//EN"     
+    "http://www.opensymphony.com/xwork/xwork-validator-1.0.dtd">
+<validators>
+     <field name="editElement.eleCode">
+        <field-validator type="requiredstring">
+            <message key="errors.required"/>
+        </field-validator>
+    </field>
+	<field name="editElement.eleName" >
+		<field-validator type="required">
+			<param name="trim">true</param>
+			<message key="errors.required"  >
+			</message>
+		</field-validator>
+	</field>
+	<field name="editElement.orderNum" >
+		<field-validator type="required">
+			<param name="trim">true</param>
+			<message key="errors.required"  >
+			</message>
+		</field-validator>
+	</field>
+</validators>

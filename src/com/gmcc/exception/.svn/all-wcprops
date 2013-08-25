@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/estore-common/!svn/ver/1187/trunk/Estore_Sys_Module/src/com/gmcc/exception
+END
+FunctionalException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/estore-common/!svn/ver/22/trunk/Estore_Sys_Module/src/com/gmcc/exception/FunctionalException.java
+END
+SaUserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/estore-common/!svn/ver/1187/trunk/Estore_Sys_Module/src/com/gmcc/exception/SaUserException.java
+END
+TechnicalException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/estore-common/!svn/ver/22/trunk/Estore_Sys_Module/src/com/gmcc/exception/TechnicalException.java
+END

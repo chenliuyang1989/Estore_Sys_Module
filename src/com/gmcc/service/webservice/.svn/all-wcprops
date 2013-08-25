@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/estore-common/!svn/ver/9/trunk/Estore_Sys_Module/src/com/gmcc/service/webservice
+END
+IUserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/estore-common/!svn/ver/9/trunk/Estore_Sys_Module/src/com/gmcc/service/webservice/IUserService.java
+END
+UserManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/estore-common/!svn/ver/9/trunk/Estore_Sys_Module/src/com/gmcc/service/webservice/UserManagerImpl.java
+END

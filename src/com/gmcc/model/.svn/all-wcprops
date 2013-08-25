@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/estore-common/!svn/ver/1271/trunk/Estore_Sys_Module/src/com/gmcc/model
+END
+JobConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/estore-common/!svn/ver/383/trunk/Estore_Sys_Module/src/com/gmcc/model/JobConfig.java
+END
+HrCompany.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/estore-common/!svn/ver/140/trunk/Estore_Sys_Module/src/com/gmcc/model/HrCompany.java
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/estore-common/!svn/ver/9/trunk/Estore_Sys_Module/src/com/gmcc/model/Role.java
+END
+ElementGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/estore-common/!svn/ver/9/trunk/Estore_Sys_Module/src/com/gmcc/model/ElementGroup.java
+END
+DemoBillDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/estore-common/!svn/ver/26/trunk/Estore_Sys_Module/src/com/gmcc/model/DemoBillDetail.java
+END
+LabelValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/estore-common/!svn/ver/9/trunk/Estore_Sys_Module/src/com/gmcc/model/LabelValue.java
+END
+JobLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/estore-common/!svn/ver/433/trunk/Estore_Sys_Module/src/com/gmcc/model/JobLog.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/estore-common/!svn/ver/234/trunk/Estore_Sys_Module/src/com/gmcc/model/User.java
+END
+SMSSendQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/estore-common/!svn/ver/1271/trunk/Estore_Sys_Module/src/com/gmcc/model/SMSSendQueue.java
+END
+Params.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/estore-common/!svn/ver/379/trunk/Estore_Sys_Module/src/com/gmcc/model/Params.java
+END
+BillSn.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/estore-common/!svn/ver/43/trunk/Estore_Sys_Module/src/com/gmcc/model/BillSn.java
+END
+DemoBill.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/estore-common/!svn/ver/26/trunk/Estore_Sys_Module/src/com/gmcc/model/DemoBill.java
+END
+Versionnotice.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/estore-common/!svn/ver/892/trunk/Estore_Sys_Module/src/com/gmcc/model/Versionnotice.java
+END
+Authority.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/estore-common/!svn/ver/9/trunk/Estore_Sys_Module/src/com/gmcc/model/Authority.java
+END
+Element.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/estore-common/!svn/ver/887/trunk/Estore_Sys_Module/src/com/gmcc/model/Element.java
+END
+AppLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/estore-common/!svn/ver/1061/trunk/Estore_Sys_Module/src/com/gmcc/model/AppLock.java
+END
+BusinessLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/estore-common/!svn/ver/673/trunk/Estore_Sys_Module/src/com/gmcc/model/BusinessLog.java
+END

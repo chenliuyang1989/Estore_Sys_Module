@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/estore-common/!svn/ver/2192/trunk/Estore_Sys_Module/src/com/gmcc/service/impl/job
+END
+JobLogServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/estore-common/!svn/ver/556/trunk/Estore_Sys_Module/src/com/gmcc/service/impl/job/JobLogServiceImpl.java
+END
+JobDisEnableUserServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/estore-common/!svn/ver/880/trunk/Estore_Sys_Module/src/com/gmcc/service/impl/job/JobDisEnableUserServiceImpl.java
+END
+JobServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/estore-common/!svn/ver/2192/trunk/Estore_Sys_Module/src/com/gmcc/service/impl/job/JobServiceImpl.java
+END

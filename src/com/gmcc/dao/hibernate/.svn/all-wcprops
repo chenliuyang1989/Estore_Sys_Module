@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/estore-common/!svn/ver/2297/trunk/Estore_Sys_Module/src/com/gmcc/dao/hibernate
+END
+AppLockDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/estore-common/!svn/ver/1061/trunk/Estore_Sys_Module/src/com/gmcc/dao/hibernate/AppLockDaoHibernate.java
+END
+JobDAOHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/estore-common/!svn/ver/2297/trunk/Estore_Sys_Module/src/com/gmcc/dao/hibernate/JobDAOHibernate.java
+END
+UserDAOHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/estore-common/!svn/ver/1975/trunk/Estore_Sys_Module/src/com/gmcc/dao/hibernate/UserDAOHibernate.java
+END
+HrCompanyDAOHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/estore-common/!svn/ver/1478/trunk/Estore_Sys_Module/src/com/gmcc/dao/hibernate/HrCompanyDAOHibernate.java
+END
+JobDisEnableUserDAOHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/estore-common/!svn/ver/1311/trunk/Estore_Sys_Module/src/com/gmcc/dao/hibernate/JobDisEnableUserDAOHibernate.java
+END
+LogDAOHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/estore-common/!svn/ver/1005/trunk/Estore_Sys_Module/src/com/gmcc/dao/hibernate/LogDAOHibernate.java
+END
+RoleDAOHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/estore-common/!svn/ver/1879/trunk/Estore_Sys_Module/src/com/gmcc/dao/hibernate/RoleDAOHibernate.java
+END
+BillSnDAOHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/estore-common/!svn/ver/823/trunk/Estore_Sys_Module/src/com/gmcc/dao/hibernate/BillSnDAOHibernate.java
+END
+AuthorityDAOHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/estore-common/!svn/ver/686/trunk/Estore_Sys_Module/src/com/gmcc/dao/hibernate/AuthorityDAOHibernate.java
+END

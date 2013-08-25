@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/estore-common/!svn/ver/1025/trunk/Estore_Sys_Module/src/com/gmcc/dto
+END
+TreeDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/estore-common/!svn/ver/227/trunk/Estore_Sys_Module/src/com/gmcc/dto/TreeDTO.java
+END
+OrgAuthorityDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/estore-common/!svn/ver/162/trunk/Estore_Sys_Module/src/com/gmcc/dto/OrgAuthorityDTO.java
+END
+TreeParamDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/estore-common/!svn/ver/227/trunk/Estore_Sys_Module/src/com/gmcc/dto/TreeParamDTO.java
+END
+LogDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/estore-common/!svn/ver/805/trunk/Estore_Sys_Module/src/com/gmcc/dto/LogDTO.java
+END
+RoleDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/estore-common/!svn/ver/1025/trunk/Estore_Sys_Module/src/com/gmcc/dto/RoleDTO.java
+END
+MenuDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/estore-common/!svn/ver/9/trunk/Estore_Sys_Module/src/com/gmcc/dto/MenuDTO.java
+END
+TreeTabColNameDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/estore-common/!svn/ver/162/trunk/Estore_Sys_Module/src/com/gmcc/dto/TreeTabColNameDTO.java
+END

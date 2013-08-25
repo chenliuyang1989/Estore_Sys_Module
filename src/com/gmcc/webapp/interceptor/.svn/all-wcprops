@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/estore-common/!svn/ver/9/trunk/Estore_Sys_Module/src/com/gmcc/webapp/interceptor
+END
+WSServerInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/estore-common/!svn/ver/9/trunk/Estore_Sys_Module/src/com/gmcc/webapp/interceptor/WSServerInterceptor.java
+END
+UserRoleAuthorizationInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/estore-common/!svn/ver/9/trunk/Estore_Sys_Module/src/com/gmcc/webapp/interceptor/UserRoleAuthorizationInterceptor.java
+END
+WSClientInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/estore-common/!svn/ver/9/trunk/Estore_Sys_Module/src/com/gmcc/webapp/interceptor/WSClientInterceptor.java
+END

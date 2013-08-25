@@ -1,0 +1,25 @@
+<!DOCTYPE validators PUBLIC "-//OpenSymphony Group//XWork Validator 1.0//EN"     
+    "http://www.opensymphony.com/xwork/xwork-validator-1.0.dtd">
+<validators>
+   
+     <field name="job.jobname">
+        <field-validator type="required">
+            <message key="errors.required"/>
+        </field-validator>
+    </field>
+     <field name="job.jobschedule">
+        <field-validator type="required">
+            <message key="errors.required"/>
+        </field-validator>
+    </field>
+    <field name="job.runmachineip">
+        <field-validator type="required">
+            <message key="errors.required"/>
+        </field-validator>
+    </field>
+    <field name="job.jobdesc">
+        <field-validator type="required">
+            <message key="errors.required"/>
+        </field-validator>
+    </field>
+</validators>

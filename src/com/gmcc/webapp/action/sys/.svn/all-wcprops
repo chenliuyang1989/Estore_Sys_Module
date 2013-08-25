@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/estore-common/!svn/ver/1878/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys
+END
+HrCompanyDataAction-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/estore-common/!svn/ver/84/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/HrCompanyDataAction-validation.xml
+END
+ElementGroupListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/estore-common/!svn/ver/554/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/ElementGroupListAction.java
+END
+RoleDataAction-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/estore-common/!svn/ver/9/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/RoleDataAction-validation.xml
+END
+PasswordDataAction-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/estore-common/!svn/ver/9/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/PasswordDataAction-validation.xml
+END
+ElementGroupDataAction-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/estore-common/!svn/ver/9/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/ElementGroupDataAction-validation.xml
+END
+DownloadAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/estore-common/!svn/ver/1076/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/DownloadAction.java
+END
+UserDataAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/estore-common/!svn/ver/1605/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/UserDataAction.java
+END
+UserListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/estore-common/!svn/ver/1604/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/UserListAction.java
+END
+UserDataAction-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/estore-common/!svn/ver/9/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/UserDataAction-validation.xml
+END
+RoleMenuListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/estore-common/!svn/ver/1878/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/RoleMenuListAction.java
+END
+ElementDataAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/estore-common/!svn/ver/135/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/ElementDataAction.java
+END
+ElementListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/estore-common/!svn/ver/64/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/ElementListAction.java
+END
+AppFilterAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/estore-common/!svn/ver/1556/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/AppFilterAction.java
+END
+VersionnoticeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/estore-common/!svn/ver/919/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/VersionnoticeAction.java
+END
+BusinessLogListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/estore-common/!svn/ver/808/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/BusinessLogListAction.java
+END
+MenuDisplayAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/estore-common/!svn/ver/1241/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/MenuDisplayAction.java
+END
+HrCompanyDataAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/estore-common/!svn/ver/575/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/HrCompanyDataAction.java
+END
+ElementDataAction-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/estore-common/!svn/ver/63/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/ElementDataAction-validation.xml
+END
+StoreLogListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/estore-common/!svn/ver/826/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/StoreLogListAction.java
+END
+AppFrameAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/estore-common/!svn/ver/1561/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/AppFrameAction.java
+END
+RoleDataAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/estore-common/!svn/ver/650/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/RoleDataAction.java
+END
+HrCompanyListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/estore-common/!svn/ver/521/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/HrCompanyListAction.java
+END
+PasswordDataAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/estore-common/!svn/ver/779/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/PasswordDataAction.java
+END
+RoleListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/estore-common/!svn/ver/521/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/RoleListAction.java
+END
+SystemManageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/estore-common/!svn/ver/1064/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/SystemManageAction.java
+END
+KeepConnectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/estore-common/!svn/ver/908/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/KeepConnectAction.java
+END
+UserExcelProcessAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/estore-common/!svn/ver/1740/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/UserExcelProcessAction.java
+END
+RoleMenuExportServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/estore-common/!svn/ver/1846/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/RoleMenuExportServlet.java
+END
+ElementGroupDataAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/estore-common/!svn/ver/495/trunk/Estore_Sys_Module/src/com/gmcc/webapp/action/sys/ElementGroupDataAction.java
+END
