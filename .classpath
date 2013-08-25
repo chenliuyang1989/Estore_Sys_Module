@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Estore_Comm_Module"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v6.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="#system#;jst.utility"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_32">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/abdera-core-0.4.0-incubating.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/abdera-extensions-json-0.4.0-incubating.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/abdera-extensions-main-0.4.0-incubating.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/abdera-i18n-0.4.0-incubating.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/abdera-parser-0.4.0-incubating.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/asm-2.2.3.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/aspectjrt-1.6.6.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/aspectjweaver-1.6.6.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/axiom-api-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/axiom-impl-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/axis.jar" sourcepath="E:/视频教程/webservice/axis2文件包/axis2-1.6.1-src"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/backport-util-concurrent-2.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/barbecue-1.5-beta1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/cfgatewayadapter.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/cglib-nodep-2.2.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/commons-beanutils-1.8.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/commons-betwixt-0.8.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/commons-dbcp-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/commons-pool-1.2.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/commontemplate-0.8.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/compass-2.1.3.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/cos.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/cxf-api-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/cxf-common-schemas-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/cxf-common-utilities-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/cxf-rt-bindings-soap-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/cxf-rt-bindings-xml-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/cxf-rt-core-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/cxf-rt-databinding-aegis-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/cxf-rt-databinding-jaxb-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/cxf-rt-frontend-jaxrs-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/cxf-rt-frontend-jaxws-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/cxf-rt-frontend-simple-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/cxf-rt-transports-http-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/cxf-rt-ws-addr-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/cxf-tools-common-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/displaytag-1.2.jar" sourcepath="C:/javaee/source/displaytag-1.2/displaytag/src"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/displaytag-export-poi-1.3.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/displaytag-portlet-1.2.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/dwr-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/edtftpj.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/ehcache-core-1.7.0.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/ehcache-web-1.6.0-beta2.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/FCKeditor-2.3.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/flex-messaging-common.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/flex-messaging-core.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/flex-messaging-opt.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/flex-messaging-proxy.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/flex-messaging-remoting.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/flex-rds-server.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/freemarker-2.3.15.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/geronimo-activation_1.1_spec-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/geronimo-annotation_1.0_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/geronimo-javamail_1.4_spec-1.6.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/geronimo-jaxws_2.1_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/geronimo-stax-api_1.0_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/geronimo-ws-metadata_2.0_spec-1.1.2.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/groovy.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/hamcrest-library-1.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/hibernate-annotations-3.4.0.GA.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/hibernate-commons-annotations-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/hibernate-core-3.3.1.GA.jar" sourcepath="C:/javaee/source/hibernate-3.3.1.GA-src/core/src"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/hibernate-ehcache-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/hibernate-validator-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/iReport.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/itext-2.0.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/iText-rtf-2.1.7.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/iTextAsian.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/iTextAsianCmaps.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/jackson-core-asl-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/jackson-jaxrs-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/jackson-mapper-asl-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/jacob.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/jasperreports-3.0.0.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/jaxb-api-2.2.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/jaxb-impl-2.1.12.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/jaxen-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/jaxp-ri-1.4.2.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/jcl104-over-slf4j-1.4.2.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/jcom.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/json-lib-2.3-jdk15.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/jsr311-api-1.0.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/jstl-1.1.2.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/junit-dep-4.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/jwebap_0.6.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/lucene-core-2.4.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/mail-1.4.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/mysql-connector-java-5.1.10.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/neethi-2.0.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/ognl-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/ojdbc14-10.2.0.2.0.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/org.springframework.flex-1.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/oscache-2.3.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/poi-excelant-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/poi-scratchpad-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/quartz-1.6.0.jar" sourcepath="C:/javaee/source/quartz-1.6.0-all-src.zip"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/saaj-api-1.3.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/saaj-impl-1.3.2.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/saaj.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/sitemesh-2.4.2.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/slf4j-api-1.4.2.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/slf4j-log4j12-1.5.2.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/spring-aop-2.5.6.jar" sourcepath="E:/视频教程/SSH源码及文档/spring-framework-3.1.2.RELEASE-with-docs/spring-framework-3.1.2.RELEASE/src/org.springframework.aop-sources-3.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/spring-aspects-2.5.6.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/spring-beans-2.5.6.jar" sourcepath="C:/Documents and Settings/Administrator/.m2/repository/org/springframework/spring-beans/2.5.6/spring-beans-2.5.6-sources.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/spring-context-2.5.6.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/spring-context-support-2.5.6.jar" sourcepath="C:/Documents and Settings/Administrator/.m2/repository/org/springframework/spring-context-support/2.5.6/spring-context-support-2.5.6-sources.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/spring-core-2.5.6.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/spring-jdbc-2.5.6.jar" sourcepath="C:/javaee/source/spring-jdbc-2.5.6-sources.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/spring-orm-2.5.6.jar" sourcepath="E:/视频教程/SSH源码及文档/spring-framework-3.1.2.RELEASE-with-docs/spring-framework-3.1.2.RELEASE/src/org.springframework.orm-sources-3.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/spring-security-acl-2.0.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/spring-security-core-2.0.4.jar" sourcepath="C:/javaee/source/spring-security-core-2.0.4-sources.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/spring-security-taglibs-2.0.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/spring-tx-2.5.6.jar" sourcepath="C:/javaee/source/spring-tx-2.5.6-sources.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/spring-web-2.5.6.jar" sourcepath="C:/javaee/source/spring-web-2.5.6-sources.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/spring-webmvc-2.5.6.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/standard-1.1.2.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/stax2-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/struts-menu-2.4.3.jar" sourcepath="C:/Documents and Settings/Administrator/.m2/repository/struts-menu/struts-menu/2.4.3/struts-menu-2.4.3-sources.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/struts2-convention-plugin-2.1.8.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/struts2-core-2.1.8.jar" sourcepath="E:/视频教程/SSH源码及文档/struts-2.3.4-all/struts-2.3.4"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/struts2-dojo-plugin-2.1.6.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/struts2-jasperreports-plugin-2.1.8.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/struts2-json-plugin-2.1.8.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/struts2-spring-plugin-2.1.8.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/tracer_0.6.1.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/urlrewritefilter-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/velocity-1.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/velocity-tools-view-1.0.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/webservices-extra-api.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/webservices.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/WmsModule.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/woodstox-core-asl-4.0.3.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/wsdl4j.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/xalan.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/xml-resolver-1.2.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/xmlbeans-2.4.0.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/XmlSchema-1.4.5.jar"/>
+	<classpathentry kind="lib" path="/Estore_Lib/lib/xwork-core-2.1.6.jar" sourcepath="E:/视频教程/SSH源码及文档/struts-2.3.4-all/struts-2.3.4/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
